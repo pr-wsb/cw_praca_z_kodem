@@ -1,1 +1,1 @@
-# cw_praca_z_kodem
+`make` instaluje wszystkie zależności i uruchamia serwer.
