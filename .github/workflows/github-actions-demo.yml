@@ -2,7 +2,7 @@ name: My first Github Workflow
 on: [push]
 jobs:
     docker_python_version:
-	runs-on: ubuntu-latest
+        runs-on: ubuntu-latest
 	steps:
 	      - run docker --version
 	      - run python --version
